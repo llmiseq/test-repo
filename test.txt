@@ -1,2 +1,8 @@
 Tutaj jest kodzik
+<<<<<<< HEAD
 fsdf
+=======
+La La LA
+ebebe
+dsd
+>>>>>>> 38f3e79341846d1b2e2b86ba7477cbf6aeea60a2
